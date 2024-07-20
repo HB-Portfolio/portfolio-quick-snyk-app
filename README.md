@@ -35,7 +35,6 @@ The Quick-Snyk website is developed with a strong emphasis on:
 - **Real-Time Vulnerability Scanning**: Uses the Snyk CLI to provide real-time security assessments of GitHub repositories.
 - **User-Friendly Interface**: Designed to be accessible for both technical and non-technical users.
 - **Responsive Design**: Ensuring the web app is functional across various devices and screen sizes.
-- **Dark Mode**: Provides an optional dark mode for better user experience.
 
 ## File Structure
 
