@@ -1,6 +1,6 @@
 # Quick-Snyk Web App
 
-[Visit Quick-Snyk](https://www.quick-snyk.com)
+[Visit Quick-Snyk](https://quick-snyk.onrender.com)
 
 **Author:** Hendrich Buhrer 
 
@@ -57,7 +57,7 @@ The repository is organized to reflect a clean and intuitive structure:
 
 ## Deployment
 
-The Quick-Snyk web app is deployed and can be viewed live at [https://www.quick-snyk.com](https://www.quick-snyk.com).
+The Quick-Snyk web app is deployed and can be viewed live at [https://www.quick-snyk.com](https://quick-snyk.onrender.com).
 
 ## Explore the Code
 
