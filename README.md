@@ -69,10 +69,5 @@ The key files in this repository include:
 - **pages/**: Directory containing various Vue.js pages.
 - **components/**: Directory containing reusable Vue.js components.
 
-## Conclusion
 
 The Quick-Snyk web app is a showcase of my web development capabilities, focusing on delivering high-quality, secure, and performant code. Feel free to review the code, provide feedback, and appreciate the efforts put into creating an efficient web application for security scanning.
-
----
-
-Thank you for visiting the Quick-Snyk web app repository. Your feedback and contributions are always welcome!
